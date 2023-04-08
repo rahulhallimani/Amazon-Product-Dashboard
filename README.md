@@ -1,4 +1,5 @@
 SQL QUERING AND DESIGNING OF THE PRODUCT BASE DASHBOARD.
 
 # Amazon-Product-Dashboard
-https://rahulhallimani37.retool.com/apps/fc0d68cc-a4f5-11ed-bcb8-632fb60db4bd/Amazon%20Product%20Dashboard
+https://rahulhallimani37.retool.com/embedded/public/66bc1820-27a5-4e13-8761-7dd4ef574217
+
